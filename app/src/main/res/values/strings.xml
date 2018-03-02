@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComponentesUI</string>
+    <string name="scrollview_introduction">Android Project Example</string>
+    <string name="textoprueba">textoprueba</string>
+    <string name="AndroidHorizontalScrollViewExample">Android Horizontal ScrollView Example</string>
+</resources>

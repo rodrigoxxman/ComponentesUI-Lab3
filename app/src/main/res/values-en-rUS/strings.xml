@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComponentesUI</string>
+    <string name="scrollview_introduction">Android Project Example</string>
+</resources>
